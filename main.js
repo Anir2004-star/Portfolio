@@ -45,7 +45,7 @@ function renderTunnel(progress){
   intro.style.opacity = String(1 - Math.min(1, Math.max(0,(progress-.07)/.1)));
   rings.style.opacity = String(Math.min(.75, Math.max(0,(progress-.08)*3)));
   cards.forEach((card,i)=>{
-    const local = (progress * 1.34 - .2) * 3 - i;
+    const local = progress * (cards.length + 1.02) - .6 - i;
     const z = local * 900;
     const angle = (i * 2.1) + progress * 7.2;
     const radius = 420;

@@ -13,7 +13,7 @@ An immersive developer portfolio exploring the intersection of software engineer
 - Scroll-driven motion and depth effects
 - Responsive layouts for desktop and mobile
 - Reduced-motion accessibility support
-- Selected work: Guardrail, Smart Parking Analytics, and RentPal
+- Selected work: Guardrail and Smart Parking Analytics
 
 ## Built with
 
@@ -29,3 +29,4 @@ An immersive developer portfolio exploring the intersection of software engineer
 
 - [GitHub](https://github.com/Anir2004-star)
 - [LinkedIn](https://www.linkedin.com/in/anirbanchoudhury90322b61)
+
